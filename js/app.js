@@ -1,3 +1,6 @@
+import React from "react";
+import ReactDOM from "react-dom";
+
 const root = ReactDOM.createRoot(document.getElementById("root"));
 
 // div > h1 | ul > li h2 li h2
